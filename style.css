@@ -175,6 +175,7 @@ body {
 .card-footer {
     border: none;
 }
+
 @media (max-width: 1400px) {
     .hero-title {
         font-size: 48px;

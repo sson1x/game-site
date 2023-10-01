@@ -3,7 +3,7 @@ var swiper = new Swiper(".mySwiper", {
   spaceBetween: 30,
   grabCursor: true,
   navigation: {
-    nextEl: ".swiper-button-next",
-    prevEl: ".swiper-button-prev",
+      nextEl: ".swiper-button-next",
+      prevEl: ".swiper-button-prev",
   },
 });
